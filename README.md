@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divagar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software Developer Intern at Femtosoft | React.js & JavaScript Developer</h3>
 
 - 🔭 I’m done a weathercheckapp [Weather check app](https://lnkd.in/dj8CYHa6)
 
